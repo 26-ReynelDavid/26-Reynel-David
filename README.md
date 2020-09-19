@@ -107,6 +107,10 @@
 			margin-right: 20px;
 			margin-bottom: 20px;
  		}
+		
+		#origen{
+		clear:both;
+		}
 
 
 
