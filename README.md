@@ -119,7 +119,7 @@
  </head>
  <body>
 
- 	<div align="center"><iframe id="reynel" src="https://drive.google.com/file/d/1Ec-hu0U0sijs0jJpLDyeM4z4Gf6mc3Ah/preview" width="640" height="480"></iframe></div>
+ 	<div align="center"><iframe id="reynel" src="https://drive.google.com/file/d/1edq1jsd0XuUed9LW_-LByUWyFURhGxt8/preview" width="640" height="480"></iframe></div>
  	
 
 
@@ -142,7 +142,7 @@
  		<li>Salsa y más salsa</li>
  	</ul>
 
- 	<div align="left"><iframe id="baile1" src="https://drive.google.com/file/d/16eR_TqFLCEXadme-7Aaf9rHm0xdcOQie/preview" width="640" height="480"></iframe></div> <div align="right"><iframe id="baile2" src="https://drive.google.com/file/d/1nXXrJ9Q-ppWkBm07rGgft8P8mrY3p1oH/preview" width="640" height="480"></iframe></div>
+ 	<div align="left"><iframe id="baile1" src="https://drive.google.com/file/d/1nXXrJ9Q-ppWkBm07rGgft8P8mrY3p1oH/preview" width="640" height="480"></iframe></div> <div align="right"><iframe id="baile2" src="https://drive.google.com/file/d/1eoVEfMmfb2RxlrcaxbD933YvhoycQopM/preview" width="640" height="480"></iframe></div>
 
 
 
