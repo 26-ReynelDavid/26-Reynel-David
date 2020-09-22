@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
  <html lang="en">
  <head>
  	<meta charset="UTF-8">
@@ -6,7 +6,7 @@
  	<title>La Salsa: El Baile</title>
  	<style>
  		body{
- 			background-color: #D2CFCF
+ 			background-color: rgb(250, 113, 12);
  		}
 
  		#introduccion{
@@ -17,6 +17,7 @@
  		p{
  			font-family: "Helvetica", sans-serif;
 			font-size: 15px;
+           
  		}
 
  		#salsa1{
@@ -81,16 +82,19 @@
 
  		h1{
  			font-family: "Helvetica", sans-serif;
+           
 
  		}
 
  		h2{
  			font-family: "Helvetica", sans-serif;
+            
 
  		}
 
  		h3{
  			font-family: "Helvetica", sans-serif;
+           
 
  		}
 
@@ -107,11 +111,8 @@
 			margin-right: 20px;
 			margin-bottom: 20px;
  		}
-		
-		#origen{
-		clear:both;
-		}
 
+        
 
 
  		
@@ -119,17 +120,17 @@
  </head>
  <body>
 
- 	<div align="center"><iframe id="reynel" src="https://drive.google.com/file/d/1edq1jsd0XuUed9LW_-LByUWyFURhGxt8/preview" width="640" height="480"></iframe></div>
+ 	<div align="center"><iframe id="reynel" src="https://drive.google.com/file/d/1Ec-hu0U0sijs0jJpLDyeM4z4Gf6mc3Ah/preview" width="640" height="480"></iframe></div>
  	
 
 
  	<div id="introduccion">
  		<p><strong>Reynel David Ramos</strong></p>
- 		<p><strong>10-C</strong>
+ 		<p><strong>10-C</p></strong>
  		<p><strong>I.E. La Milagrosa</strong></p>
  		<p><strong>Proyecto Final de Tecnología</strong></p>
 
- 	
+ 	</div>
 
  	<h1>Biografia</h1>
 
@@ -142,7 +143,7 @@
  		<li>Salsa y más salsa</li>
  	</ul>
 
- 	<div align="left"><iframe id="baile1" src="https://drive.google.com/file/d/1nXXrJ9Q-ppWkBm07rGgft8P8mrY3p1oH/preview" width="640" height="480"></iframe></div> <div align="right"><iframe id="baile2" src="https://drive.google.com/file/d/1eoVEfMmfb2RxlrcaxbD933YvhoycQopM/preview" width="640" height="480"></iframe></div>
+ 	<div align="left"><iframe id="baile1" src="https://drive.google.com/file/d/16eR_TqFLCEXadme-7Aaf9rHm0xdcOQie/preview" width="640" height="480"></iframe></div> <div align="right"><iframe id="baile2" src="https://drive.google.com/file/d/1nXXrJ9Q-ppWkBm07rGgft8P8mrY3p1oH/preview" width="640" height="480"></iframe></div>
 
 
 
@@ -265,4 +266,5 @@
 
 
 	
- 
+ </body>
+ </html>
