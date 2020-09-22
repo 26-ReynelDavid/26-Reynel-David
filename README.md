@@ -125,12 +125,12 @@
 
 
  	<div id="introduccion">
- 		<p><strong>Reynel David Ramos</strong></p>
+ 		<p><strong>Reynel David Ramos</strong>
  		<p><strong>10-C</p></strong>
  		<p><strong>I.E. La Milagrosa</strong></p>
  		<p><strong>Proyecto Final de Tecnología</strong></p>
 
- 	</div>
+ 	
 
  	<h1>Biografia</h1>
 
